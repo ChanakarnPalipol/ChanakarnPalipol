@@ -7,6 +7,8 @@
   Loving every moment of learning new tech stuff 💡<br>
 </p>
 
+---
+
 ### 🌟 About Me :
 - 🎓 University student based in Thailand 🇹🇭
 - 📚 Passionate about **Web Development** and **UX/UI Designer**
@@ -37,3 +39,13 @@
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/ChanakarnPalipol)
 - APIs : <br />
     [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://github.com/ChanakarnPalipol)
+
+### 💌 Contact Me
+Would love to collaborate on projects or just be friends! Feel free to DM me  
+📫 Email: [chanakarn.palipol.0808@gmail.com]
+
+---
+
+<p align="center">
+  🌸 Thanks for stopping by my profile! 🌸<br>
+</p>
