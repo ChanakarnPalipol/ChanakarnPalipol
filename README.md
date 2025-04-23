@@ -1,8 +1,20 @@
-<h2 align="center"> 💖   Hello! I'm Chanakarn Palipol   💻 </h2>
+<h2 align="center">Hello! I'm Chanakarn Palipol 💖</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)](https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)
 
-Technologies I've been learning and using so far (alphabetical order) :
+<p align="center">
+  A Thai computer science student currently in my 2nd year at CMU 👩🏻‍💻<br>
+  Loving every moment of learning new tech stuff 💡<br>
+</p>
+
+### 🌟 About Me :
+- 🎓 University student based in Thailand 🇹🇭
+- 📚 Passionate about **Web Development** and **UX/UI Designer**
+- 🐣 Always learning something new — because “learning never ends”
+- 💻 Coding with a smile (and staying up late more often than I should 😅)
+- 🧁 Besides coding, I love cooking, reading novels, and drawing!
+
+### 💻 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://github.com/ChanakarnPalipol)
@@ -18,7 +30,6 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://github.com/ChanakarnPalipol)
     [![Google APIs](http://img.shields.io/badge/-Google%20APIs-eee?style=flat-square&logo=google&logoColor=4285F4)](https://github.com/ChanakarnPalipol)
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://github.com/ChanakarnPalipol)
-    [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://github.com/ChanakarnPalipol)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://github.com/ChanakarnPalipol)
 - OS & IDE & Tools : <br />
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://github.com/ChanakarnPalipol)
