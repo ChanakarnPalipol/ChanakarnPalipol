@@ -5,9 +5,9 @@
 Technologies I've been learning and using so far (alphabetical order) :
 
 - Programming languages : <br />
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)(https://github.com/ChanakarnPalipol)
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)(https://github.com/ChanakarnPalipol)
-    [![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)(https://github.com/ChanakarnPalipol)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://github.com/ChanakarnPalipol)
+    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](https://github.com/ChanakarnPalipol)
+    [![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)](https://github.com/ChanakarnPalipol)
 - Frontend : <br />
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://github.com/ChanakarnPalipol)
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://github.com/ChanakarnPalipol)
