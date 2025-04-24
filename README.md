@@ -2,19 +2,16 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)](https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)
 
-<p align="center">
-  A Thai computer science student currently in my 2nd year at CMU 👩🏻‍💻<br>
-  Loving every moment of learning new tech stuff 💡<br>
-</p>
+<p align="center"> A 3rd-year Computer Science student at Chiang Mai University, Thailand 🇹🇭<br> Passionate about blending creativity and technology through UX/UI design and full-stack development<br> </p>
 
 ---
 
 ### 🌟 About Me :
-- 🎓 University student based in Thailand 🇹🇭
-- 📚 Passionate about **Web Development** and **UX/UI Designer**
-- 🐣 Always learning something new — because “learning never ends”
-- 💻 Coding with a smile (and staying up late more often than I should 😅)
-- 🧁 Besides coding, I love cooking, reading novels, and drawing!
+- 👩🏻‍💻 Computer science student with a deep interest in user-centered design and web technologies
+- 🎯 Aspiring UX/UI Designer or Full-Stack Developer
+- ✨ Enthusiastic about crafting intuitive and beautiful digital experiences
+- 📖 Lifelong learner who enjoys diving into new tools, trends, and ideas
+- 🎨 Outside of tech, I enjoy cooking, reading novels, and drawing
 
 ### 💻 Technologies I've been learning and using so far :
 
@@ -40,12 +37,10 @@
 - APIs : <br />
     [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://github.com/ChanakarnPalipol)
 
-### 💌 Contact Me
-Would love to collaborate on projects or just be friends! Feel free to DM me  
+### 📬 Contact Me
+I’m always open to connecting, collaborating, or just chatting about tech and design!
 📫 Email: [chanakarn.palipol.0808@gmail.com]
 
 ---
 
-<p align="center">
-  🌸 Thanks for stopping by my profile! 🌸<br>
-</p>
+<p align="center"> 🌸 Thanks for visiting! Let's build something awesome together 🌸 </p>
