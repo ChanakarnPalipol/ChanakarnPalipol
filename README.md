@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I'm Chanakarn Palipol 💖</h2>
+<p align="center">Hello! I'm Chanakarn Palipol 💖</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)](https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)
 
