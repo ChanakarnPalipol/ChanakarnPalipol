@@ -63,10 +63,17 @@
 
 ### 💼 Projects
 
-- **SWK Activity** — UX/UI Design & Full Stack Development
-- **[SWK Affairs](https://swkaffairs.com/)** — UX/UI Design - A web application designed for school affairs management, featuring functionalities such as student check-in via facial recognition, conduct score management, and examination system administration.
+- **SWK Activity** — UX/UI Design & Full Stack Development  
+  A school club management system enabling students to join and leave clubs, teachers to manage student attendance, and admins to oversee all clubs, generate reports, and manage the entire system.
+
+- **[SWK Affairs](https://swkaffairs.com/)** — UX/UI Design  
+  A web application designed for school affairs management, featuring functionalities such as student check-in via facial recognition, conduct score management, and examination system administration.
+
 - **YP Car Detection** — UX/UI Design  
-- **[YP Enterprise Solution](https://ypenterprisesolution.com)** — UX/UI Design - A company web application for managing product information, displaying company details, and providing customer services.
+  A user-friendly interface for car detection systems, optimized for better user interaction and experience.
+
+- **[YP Enterprise Solution](https://ypenterprisesolution.com)** — UX/UI Design  
+  A company web application for managing product information, displaying company details, and providing customer services.
 
 ---
 
