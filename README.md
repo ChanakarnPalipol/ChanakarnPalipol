@@ -70,7 +70,7 @@
   A web application designed for school affairs management, featuring functionalities such as student check-in via facial recognition, conduct score management, and examination system administration.
 
 - **YP Car Detection** — UX/UI Design  
-  A user-friendly interface for car detection systems, optimized for better user interaction and experience.
+  A user-friendly app for car detection systems, optimized for better user interaction and experience.
 
 - **[YP Enterprise Solution](https://ypenterprisesolution.com)** — UX/UI Design  
   A company web application for managing product information, displaying company details, and providing customer services.
