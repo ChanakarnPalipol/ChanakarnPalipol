@@ -63,10 +63,10 @@
 
 ### 💼 Projects
 
-- **SWK Activity** — UX/UI Design & Full Stack Development  
+- **[SWK Activity](https://activity.samakkhi.com/)** — UX/UI Design & Full Stack Development  
   A school club management system enabling students to join and leave clubs, teachers to manage student attendance, and admins to oversee all clubs, generate reports, and manage the entire system.
 
-- **[SWK Affairs](https://swkaffairs.com/)** — UX/UI Design  
+- **[SWK Affairs](https://affairs.samakkhi.com/)** — UX/UI Design  
   A web application designed for school affairs management, featuring functionalities such as student check-in via facial recognition, conduct score management, and examination system administration.
 
 - **YP Car Detection** — UX/UI Design  
