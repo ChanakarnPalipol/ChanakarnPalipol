@@ -63,17 +63,23 @@
 
 ### 💼 Projects
 
+- **[SWK HR](https://hr.samakkhi.com/)** — UX/UI Design & Frontend Development  
+  Led UX/UI design and frontend development for a human resources management system. The platform tracks employee data and provides statistical reports. (Collaborated with a partner.)
+
 - **[SWK Activity](https://activity.samakkhi.com/)** — UX/UI Design & Full Stack Development  
-  A school club management system enabling students to join and leave clubs, teachers to manage student attendance, and admins to oversee all clubs, generate reports, and manage the entire system.
+  Designed and developed a full-stack web application for managing student clubs. The system includes online attendance, student management, and administrator controls. (Collaborated with a partner.)
 
 - **[SWK Affairs](https://affairs.samakkhi.com/)** — UX/UI Design  
-  A web application designed for school affairs management, featuring functionalities such as student check-in via facial recognition, conduct score management, and examination system administration.
+  Provided UX/UI design for a student affairs web application. The platform allows students to track attendance and submit leave requests, while teachers can manage student records. (Collaborated with a partner.)
 
 - **YP Car Detection** — UX/UI Design  
-  A user-friendly app for car detection systems, optimized for better user interaction and experience.
+  Designed the UX/UI for a web application focused on detecting vehicle license plates. (Collaborated with a partner.)
 
 - **[YP Enterprise Solution](https://ypenterprisesolution.com)** — UX/UI Design  
-  A company web application for managing product information, displaying company details, and providing customer services.
+  Led the UX/UI design for an e-commerce website specializing in CCTV camera sales. (Collaborated with a partner.)
+
+- **Cat Vacuum** — UX/UI Design  
+  Created all visual assets and managed the UX/UI design for a puzzle game. (Team project completed during a workshop.)
 
 ---
 
