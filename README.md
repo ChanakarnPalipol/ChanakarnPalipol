@@ -59,7 +59,7 @@ Resourceful UX/UI Designer & Frontend Developer with proven experience deliverin
 ### 💼 Projects & Experience
 
 - **CMUPA (Ongoing)** — Full Stack Development  
-  Built a secure KPI tracking platform for multiple Chiang Mai University departments to create, track, and analyze performance metrics, increasing cross-team transparency (team of 5).
+  Worked in a team to design and deliver CMUPA, a web application for creating and tracking university KPIs across multiple departments. Applied software engineering principles for requirements gathering, system design, and iterative development. Built dashboards and forms with Figma and React to streamline KPI data entry and reporting (team of 5).
 
 - **[SWK HR](https://hr.samakkhi.com/)** — UX/UI Design & Frontend Development  
   Launched a modern HR management solution for 200+ staff, integrating facial-scan attendance, Excel workflows, and granular admin controls. Developed flexible dashboards with Next.js & Prisma—reducing manual errors and streamlining HR for the entire school.
@@ -74,7 +74,7 @@ Resourceful UX/UI Designer & Frontend Developer with proven experience deliverin
   Built fullstack (frontend & backend) prototype of an event scheduling app with Python and SQL, enabling link-based bookings and Google Calendar integration (team of 4).
 
 - **Cat Vacuum** — UX/UI Design  
-  Spearheaded UI/UX and logic for a React web game, awarded 2nd place in the Mycos Technologies React Game competition (team of 5).
+  Built a React-based browser game as part of a national training workshop and competition, focusing on game UI/UX, logic design, and real-time interaction. Won 2nd place for creative and engaging interface (team of 5).
 
 - **YP Car Detection** — UX/UI Design  
   Designed and implemented intuitive UI for a technical license plate recognition software, optimizing UX for rapid data capture with React.
