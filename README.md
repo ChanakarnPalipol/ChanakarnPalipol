@@ -9,7 +9,7 @@
 
 ### About
 
-Driven Computer Science student with a strong focus on UX/UI and web development. Experienced in creating scalable solutions and intuitive digital experiences for 3,000+ users. Passionate about beautiful, practical design and thoughtful engineering using React, Next.js, Figma, and Python.
+Driven Computer Science student with a strong focus on UX/UI and web development. Experienced in creating scalable solutions and intuitive digital experiences for 3,000+ users. Passionate about beautiful, practical design and thoughtful engineering using React, Next.js, and Figma
 
 ---
 
