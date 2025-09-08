@@ -71,7 +71,7 @@ Resourceful UX/UI Designer & Frontend Developer with proven experience deliverin
   Transformed school management by designing and launching a web system used by over 3,000 users for grades, face-scan attendance, and process automation. Led full UX/UI and frontend development with Figma and Next.js, raising schoolwide efficiency and user experience.
 
 - **BookITBuddies** — Full Stack Development  
-  Built fullstack (frontend & backend) prototype of an event scheduling app with Python and SQL, enabling link-based bookings and Google Calendar integration (team of 4).
+  Built fullstack (frontend & backend) prototype of an event scheduling app with Python and Flask, enabling link-based bookings and Google Calendar integration (team of 4).
 
 - **Cat Vacuum** — UX/UI Design  
   Built a React-based browser game as part of a national training workshop and competition, focusing on game UI/UX, logic design, and real-time interaction. Won 2nd place for creative and engaging interface (team of 5).
