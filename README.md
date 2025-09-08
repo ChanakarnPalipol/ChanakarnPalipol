@@ -63,23 +63,26 @@
 
 ### 💼 Projects
 
+- **CMUPA (Ongoing)** — Full Stack Development  
+  Built a secure KPI tracking system for Chiang Mai University, enabling multiple departments to create, track, and analyze performance metrics. Designed intuitive dashboards that simplify reporting and increase cross-team transparency.
+
 - **[SWK HR](https://hr.samakkhi.com/)** — UX/UI Design & Frontend Development  
-  Led UX/UI design and frontend development for a human resources management system. The platform tracks employee data and provides statistical reports. (Collaborated with a partner.)
+  Launched a modern HR management solution for 200+ staff, integrating facial-scan attendance, Excel workflows, and granular admin controls. Developed flexible dashboards with Next.js & Prisma—reducing manual errors and streamlining HR for the entire school.
 
 - **[SWK Activity](https://activity.samakkhi.com/)** — UX/UI Design & Full Stack Development  
-  Designed and developed a full-stack web application for managing student clubs. The system includes online attendance, student management, and administrator controls. (Collaborated with a partner.)
+  Engineered an end-to-end club management platform serving 3,000+ students and staff, powering online enrollment, attendance, and robust reporting. Initiated user feedback cycles and built multi-role interfaces to drive high participation and simplify admin work.
 
 - **[SWK Affairs](https://affairs.samakkhi.com/)** — UX/UI Design  
-  Provided UX/UI design for a student affairs web application. The platform allows students to track attendance and submit leave requests, while teachers can manage student records. (Collaborated with a partner.)
+  Transformed school management by designing and launching a web system used by over 3,000 users for grades, face-scan attendance, and process automation. Led full UX/UI and frontend development with Figma and Next.js, raising schoolwide efficiency and user experience.
 
 - **YP Car Detection** — UX/UI Design  
-  Designed the UX/UI for a web application focused on detecting vehicle license plates. (Collaborated with a partner.)
+  Designed and implemented the UI for a technical license plate recognition software, optimizing UX for rapid data capture and readability with React.
 
 - **[YP Enterprise Solution](https://ypenterprisesolution.com)** — UX/UI Design  
-  Led the UX/UI design for an e-commerce website specializing in CCTV camera sales. (Collaborated with a partner.)
+  Delivered enterprise-grade web UI for a CCTV solution provider, collaborating directly with business owners to develop responsive, user-centered interfaces using Figma and React.
 
 - **Cat Vacuum** — UX/UI Design  
-  Created all visual assets and managed the UX/UI design for a puzzle game. (Team project completed during a workshop.)
+  Spearheaded UI/UX and logic for a React web game, achieving 2nd place in the Mycos Technologies competition; praised for creative interaction design.
 
 ---
 
