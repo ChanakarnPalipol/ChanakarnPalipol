@@ -51,7 +51,7 @@ Driven Computer Science student with a strong focus on UX/UI and web development
 ### Projects
 
 **CMUPA** &nbsp;|&nbsp; Full Stack  
-Developing a KPI management system for Chiang Mai University, including workflow design and implementation with Figma and React.  
+Developing a KPI management system for Chiang Mai University, including workflow design and implementation with Figma and Next.  
 <sub>(Team project, Software Engineering course, ongoing)</sub>
 
 **[SWK HR](https://hr.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Frontend  
@@ -60,8 +60,8 @@ Implemented a school HR platform for 200+ staff, integrating face-scan attendanc
 **[SWK Activity](https://activity.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Full Stack  
 Created a club management platform for 3,000+ users, streamlining enrollment and reporting.
 
-**[SWK Affairs](https://affairs.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Frontend  
-Designed & launched a web solution for grades and attendance for over 3,000 users.
+**[SWK Affairs](https://affairs.samakkhi.com/)** &nbsp;|&nbsp; UX/UI 
+Designed a web solution for grades and attendance for over 3,000 users.
 
 **BookITBuddies** &nbsp;|&nbsp; Full Stack (Python, Flask)  
 Built a prototype event scheduler app with Google Calendar API integration.  
