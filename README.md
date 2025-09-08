@@ -60,7 +60,7 @@ Implemented a school HR platform for 200+ staff, integrating face-scan attendanc
 **[SWK Activity](https://activity.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Full Stack  
 Created a club management platform for 3,000+ users, streamlining enrollment and reporting.
 
-**[SWK Affairs](https://affairs.samakkhi.com/)** &nbsp;|&nbsp; UX/UI 
+**[SWK Affairs](https://affairs.samakkhi.com/)** &nbsp;|&nbsp; UX/UI  
 Designed a web solution for grades and attendance for over 3,000 users.
 
 **BookITBuddies** &nbsp;|&nbsp; Full Stack (Python, Flask)  
