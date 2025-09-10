@@ -41,7 +41,6 @@ Driven Computer Science student with a strong focus on UX/UI and web development
 
 <!-- Design & Dev Tools -->
 ![Figma](https://img.shields.io/badge/Figma-eee?style=flat-square&logo=figma&logoColor=F24E1E)
-![MUI](https://img.shields.io/badge/MUI-eee?style=flat-square&logo=mui&logoColor=007FFF)
 ![Git](https://img.shields.io/badge/Git-eee?style=flat-square&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)
