@@ -64,11 +64,11 @@ Designed a web solution for grades and attendance for over 3,000 users.
 
 **BookITBuddies** &nbsp;|&nbsp; Full Stack (Python, Flask)  
 Built a prototype event scheduler app with Google Calendar API integration.  
-<sub>(Course project, Team of 4)</sub>
+<sub>(Team project, Modern Application Development course)</sub>
 
 **Cat Vacuum** &nbsp;|&nbsp; UX/UI   
 Created a React browser game, awarded 2nd place (national workshop, Mycos Technologies).  
-<sub>(Workshop Project, Team of 5)</sub>
+<sub>(Workshop project, Mycos Technologies React for Game)</sub>
 
 **YP Car Detection** &nbsp;|&nbsp; UX/UI  
 Designed interface for license plate recognition software.
