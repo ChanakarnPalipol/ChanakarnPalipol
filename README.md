@@ -42,17 +42,17 @@ Enthusiastic Computer Science major with hands-on experience in UX/UI, web devel
 ### Projects
 
 **[SWK Activity](https://activity.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Frontend  
-_Built a scalable club management platform for 3,000+ users, leading UI/UX efforts with Figma and Next.js; streamlined enrollment and club reporting, improving data accuracy and user experience._
+_Built a scalable club management platform for 3,500+ users, leading UI/UX efforts with Figma and Next.js; streamlined enrollment and club reporting, improving data accuracy and user experience._
 
 **CMUPA** &nbsp;|&nbsp; Full Stack  
 _Developed a KPI management system for Chiang Mai University using Next.js and Figma; designed collaborative workflow solutions as part of a 5-member team._  
 <sub>(Team project, Software Engineering course, ongoing)</sub>
 
 **[SWK HR](https://hr.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Frontend  
-_Implemented a school HR platform serving 200+ staff, integrating face-scan attendance and automating workflows with Next.js, Prisma, and Material-UI._
+_Implemented a school HR platform serving 300+ staff, integrating face-scan attendance and automating workflows with Next.js, Prisma, and Material-UI._
 
 **[SWK Affair](https://affair.samakkhi.com/)** &nbsp;|&nbsp; UX/UI  
-_Designed a web solution for managing grades and attendance for 3,000+ users, enhancing digital access and reporting._
+_Designed a web solution for managing grades and attendance for 3,500+ users, enhancing digital access and reporting._
 
 **BookITBuddies** &nbsp;|&nbsp; Full Stack  
 _Developed a prototype event scheduler app with Google Calendar API using Python and Flask._  
