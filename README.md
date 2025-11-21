@@ -9,7 +9,7 @@
 
 ### About
 
-Enthusiastic Computer Science major with hands-on experience in UX/UI, web development, and delivering scalable, user-centric applications. Adept at using React, Next.js, and Figma to create digital products for 3,000+ users. Eager to blend creative design with solid engineering principles.
+Enthusiastic Computer Science major with hands-on experience in UX/UI, web development, and delivering scalable, user-centric applications. Adept at using React, Next.js, and Figma to create digital products for 3,500+ users. Eager to blend creative design with solid engineering principles.
 
 ---
 
