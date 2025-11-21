@@ -1,4 +1,4 @@
-<h2 align="center">Chanakarn Palipol</h2>
+<h2 align="center">Chanakarn Palipol 👋 </h2>
 <p align="center">
   Computer Science, Chiang Mai University  &nbsp;|&nbsp;  UX/UI & Full Stack Developer<br>
   <a href="https://www.linkedin.com/in/chanakarn-palipol-3627982b1/">LinkedIn</a> • 
