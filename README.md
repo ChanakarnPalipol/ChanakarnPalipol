@@ -56,10 +56,19 @@ _Designed a web solution for managing grades and attendance for 3,500+ users, en
 
 **BookITBuddies** &nbsp;|&nbsp; Full Stack  
 _Developed a prototype event scheduler app with Google Calendar API using Python and Flask._  
-<sub>(Team project, Modern Application Development course, ongoing)</sub>
+<sub>(Team project, Modern Application Development course)</sub>
 
 **Cat Vacuum** &nbsp;|&nbsp; UX/UI  
-_Designed and built a browser-based game in React; awarded 2nd place (react for game workshop, Mycos Technologies)._
+_Designed and built a browser-based game in React; awarded 2nd place (react for game workshop, Mycos Technologies)._  
+<sub>(Team project, Build & Play React.js Workshop)</sub>
+
+**Red Wine Quality Analysis** &nbsp;|&nbsp; Data Cleaning & Preparation  
+_Preprocessed a raw Kaggle dataset using Python (Pandas) to ensure data integrity; handled missing values and outliers to optimize the dataset for predictive modeling._  
+<sub>(Team project, Data Analysis course)</sub>
+
+**MixedLove** &nbsp;|&nbsp; Java Application  
+_Programmed the core logic for a visual novel game using Java; collaborated with a team of 5 to implement scene transitions and user interaction features._  
+<sub>(Team project, Intro to OOP course)</sub>
 
 **YP Car Detection** &nbsp;|&nbsp; UX/UI  
 _Designed the interface for a license plate recognition system._
