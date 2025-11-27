@@ -9,7 +9,7 @@
 
 ### About
 
-Enthusiastic Computer Science major with hands-on experience in UX/UI, web development, and delivering scalable, user-centric applications. Adept at using React, Next.js, and Figma to create digital products for 3,500+ users. Eager to blend creative design with solid engineering principles.
+Computer Science junior at Chiang Mai University with hands-on experience in UX/UI and full-stack web development. Led the design and frontend delivery of large-scale digital platforms for 3,500+ users at Samakkhiwitthayakhom School. Skilled in React, Next.js, and Figma, blending creative thinking with solid engineering principles. **Actively seeking a 6-month internship to further apply and expand my skills in real-world projects.**
 
 ---
 
@@ -39,49 +39,46 @@ Enthusiastic Computer Science major with hands-on experience in UX/UI, web devel
 
 ---
 
-### Projects
+#### [SWK Activity](https://activity.samakkhi.com/) — UX/UI & Frontend  
+Built a scalable club management platform for 3,500+ students and 200+ staff; led UI/UX in Figma and implemented the frontend in Next.js to streamline enrollment, attendance, and club analytics.
 
-**[SWK Activity](https://activity.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Frontend  
-_Built a scalable club management platform for 3,500+ users, leading UI/UX efforts with Figma and Next.js; streamlined enrollment and club reporting, improving data accuracy and user experience._
+#### CMUPA — Full Stack  
+Developing a KPI management web system for Chiang Mai University using Next.js and Figma as a 5-member team. (Ongoing | Software Engineering course)
 
-**CMUPA** &nbsp;|&nbsp; Full Stack  
-_Developed a KPI management system for Chiang Mai University using Next.js and Figma; designed collaborative workflow solutions as part of a 5-member team._  
-<sub>(Team project, Software Engineering course, ongoing)</sub>
+#### [SWK HR](https://hr.samakkhi.com/) — UX/UI & Frontend  
+Created a school HR platform supporting 350+ staff; implemented face-scan attendance, role-based tracking, LINE notifications, and printable analytics using Next.js, Prisma, and MUI.
 
-**[SWK HR](https://hr.samakkhi.com/)** &nbsp;|&nbsp; UX/UI & Frontend  
-_Implemented a school HR platform serving 300+ staff, integrating face-scan attendance and automating workflows with Next.js, Prisma, and Material-UI._
+#### [SWK Affair](https://affair.samakkhi.com/) — UX/UI  
+Designed student conduct management platform for 3,500+ users; improved digital score tracking, automated reporting, and user accessibility (all flows: Figma).
 
-**[SWK Affair](https://affair.samakkhi.com/)** &nbsp;|&nbsp; UX/UI  
-_Designed a web solution for managing grades and attendance for 3,500+ users, enhancing digital access and reporting._
-
-**BookITBuddies** &nbsp;|&nbsp; Full Stack  
-_Developed a prototype event scheduler app with Google Calendar API using Python and Flask._  
+#### BookITBuddies — Full Stack  
+Built an event scheduler prototype with Google Calendar API using Python and Flask.  
 <sub>(Team project, Modern Application Development course)</sub>
 
-**Cat Vacuum** &nbsp;|&nbsp; UX/UI  
-_Designed and built a browser-based game in React; awarded 2nd place (react for game workshop, Mycos Technologies)._  
-<sub>(Team project, Build & Play React.js Workshop)</sub>
+#### Cat Vacuum — UX/UI  
+Designed and developed a browser-based game in React; awarded 2nd place at Mycos Technologies “Build & Play React.js” workshop.  
+<sub>(Team project)</sub>
 
-**Red Wine Quality Analysis** &nbsp;|&nbsp; Data Cleaning & Preparation  
-_Preprocessed a raw Kaggle dataset using Python (Pandas) to ensure data integrity; handled missing values and outliers to optimize the dataset for predictive modeling._  
+#### Red Wine Quality Analysis — Data Cleaning & Preparation  
+Cleaned and prepared Kaggle dataset in Python (Pandas); managed missing data and outliers prior to modeling.  
 <sub>(Team project, Data Analysis course)</sub>
 
-**MixedLove** &nbsp;|&nbsp; Java Application  
-_Programmed the core logic for a visual novel game using Java; collaborated with a team of 5 to implement scene transitions and user interaction features._  
-<sub>(Team project, Intro to OOP course)</sub>
+#### MixedLove — Java Application  
+Programmed logic for a visual novel game using Java; collaborated in a team of 5 to implement scene transitions and interactivity.  
+<sub>(Intro to OOP course)</sub>
 
-**YP Car Detection** &nbsp;|&nbsp; UX/UI  
-_Designed the interface for a license plate recognition system._
+#### YP Car Detection — UX/UI  
+Designed interface for a license plate recognition system.
 
-**[YP Enterprise Solution](https://www.ypenterprisesolution.com/)** &nbsp;|&nbsp; UX/UI  
-_Delivered responsive UI design for a CCTV platform in collaboration with business users._
+#### [YP Enterprise Solution](https://www.ypenterprisesolution.com/) — UX/UI  
+Delivered responsive UI design for a CCTV management platform, collaborating closely with business users.
 
 ---
 
 ### Achievements
 
-- 2nd Place, “React for Game” Workshop (Mycos Technologies)
-- Delivered production web solutions used by over 3,500 users
+- **2nd Place**, Build & Play React.js Competition (Mycos Technologies)
+- Delivered production web solutions adopted by over 3,500 users
 
 ---
 
