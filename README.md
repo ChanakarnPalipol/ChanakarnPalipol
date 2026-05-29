@@ -1,88 +1,95 @@
-<h2 align="center">Chanakarn Palipol 👋 </h2>
-<p align="center">
-  Computer Science, Chiang Mai University  &nbsp;|&nbsp;  UX/UI & Full Stack Developer<br>
-  <a href="https://www.linkedin.com/in/chanakarn-palipol-3627982b1/">LinkedIn</a> • 
-  <a href="mailto:chanakarn.palipol.0808@gmail.com">Email</a>
-</p>
+  <h2 align="center">Chanakarn Palipol 👋</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/chanakarn-palipol-3627982b1/">LinkedIn</a> •
+    <a href="mailto:chanakarn.palipol.0808@gmail.com">Email</a>
+  </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ChanakarnPalipol&style=flat-square&color=blue" alt="Profile views">
+  </p>
 
----
+  ---
+  
+  ### About
 
-### About
+  Computer Science junior at Chiang Mai University, focused on UX/UI and full-stack web development. I led the design and frontend delivery of digital platforms serving 3,500+ users
+  at Samakkhiwitthayakhom School, working primarily in React, Next.js, and Figma. I care about pairing thoughtful interface design with sound engineering.
 
-Computer Science junior at Chiang Mai University with hands-on experience in UX/UI and full-stack web development. Led the design and frontend delivery of large-scale digital platforms for 3,500+ users at Samakkhiwitthayakhom School. Skilled in React, Next.js, and Figma, blending creative thinking with solid engineering principles. **Actively seeking a 6-month internship to further apply and expand my skills in real-world projects.**
+  ---
+  
+  ### Tech Stack
 
----
+  ![My Skills](https://skillicons.dev/icons?i=js,python,dart,html,css,tailwind,react,nextjs,flutter,postgres,prisma,docker,figma,git,vscode)
 
-### Tech Stack
+  Also working with **Next.js · shadcn/ui · Ollama · Streamlit · Chroma (RAG)**
 
-<!-- Programming Languages -->
-![JavaScript](https://img.shields.io/badge/JavaScript-eee?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-eee?style=flat-square&logo=python&logoColor=3776AB)
+  ---
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=ChanakarnPalipol&hide_border=true" alt="GitHub streak">
+  </p>
 
-<!-- Frontend -->
-![CSS3](https://img.shields.io/badge/CSS3-eee?style=flat-square&logo=css3&logoColor=1572B6)
-![HTML5](https://img.shields.io/badge/HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-eee?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
-![Next.js](https://img.shields.io/badge/Next.js-eee?style=flat-square&logo=next.js&logoColor=000)
-![React](https://img.shields.io/badge/React-eee?style=flat-square&logo=react&logoColor=61DAFB)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-eee?style=flat-square&logo=shadcn-ui&logoColor=000)
+  ---
+  
+  ### Selected Projects
 
-<!-- Backend, APIs, and Tools -->
-![Docker](https://img.shields.io/badge/Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-eee?style=flat-square&logo=prisma&logoColor=2D3748)
+  #### AirGradient × UNDP Toolkit Chatbot — AI / Full Stack
+  Built a fully **local RAG chatbot** over the AirGradient × UNDP air-quality monitoring toolkit — running offline with no paid APIs. Python, Streamlit UI, Chroma vector store, and
+  Ollama (Qwen3) for chat and embeddings; hybrid vector + BM25 retrieval with per-answer source citations and an evaluation harness. Built solo. <sub>(AirGradient)</sub>
 
-<!-- Design & Dev Tools -->
-![Figma](https://img.shields.io/badge/Figma-eee?style=flat-square&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-eee?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  #### [SWK Activity](https://activity.samakkhi.com/) — UX/UI & Frontend
+  Club management platform for 3,500+ students and 200+ staff. Led UI/UX in Figma and built the frontend in Next.js, streamlining enrollment, attendance, and club analytics.
+  <sub>(YP Enterprise)</sub>
 
----
+  #### [SWK HR](https://hr.samakkhi.com/) — UX/UI & Frontend
+  HR platform for 350+ staff with face-scan attendance, role-based tracking, LINE notifications, and printable analytics. Built with Next.js, Prisma, and MUI. <sub>(YP
+  Enterprise)</sub>
 
-#### [SWK Activity](https://activity.samakkhi.com/) — UX/UI & Frontend  
-Built a scalable club management platform for 3,500+ students and 200+ staff; led UI/UX in Figma and implemented the frontend in Next.js to streamline enrollment, attendance, and club analytics.
+  #### [SWK Affair](https://affair.samakkhi.com/) — UX/UI
+  Student conduct management platform for 3,500+ users, with digital score tracking and automated reporting. Designed all flows in Figma. <sub>(YP Enterprise)</sub>
 
-#### CMUPA — Full Stack  
-Developing a KPI management web system for Chiang Mai University using Next.js and Figma as a 5-member team. (Ongoing | Software Engineering course)
+  #### CMUPA — Full Stack &nbsp;<sub>Ongoing</sub>
+  KPI management system for Chiang Mai University, built with Next.js and Figma in a 5-member team. <sub>(Software Engineering course)</sub>
 
-#### [SWK HR](https://hr.samakkhi.com/) — UX/UI & Frontend  
-Created a school HR platform supporting 350+ staff; implemented face-scan attendance, role-based tracking, LINE notifications, and printable analytics using Next.js, Prisma, and MUI.
+  #### [TPK Wireless PA](https://tpknetwork.tippattanakorn.co.th) — Frontend
+  Multi-tenant web platform for IP-phone / wireless PA management. Built the web interface. <sub>(TIPPATTANAKORN INNOVATION GROUP)</sub>
 
-#### [SWK Affair](https://affair.samakkhi.com/) — UX/UI  
-Designed student conduct management platform for 3,500+ users; improved digital score tracking, automated reporting, and user accessibility (all flows: Figma).
+  #### [YP Enterprise Solution](https://www.ypenterprisesolution.com/) — UX/UI
+  Responsive UI for a CCTV management platform, designed in close collaboration with business users. <sub>(YP Enterprise)</sub>
 
-#### BookITBuddies — Full Stack  
-Built an event scheduler prototype with Google Calendar API using Python and Flask.  
-<sub>(Team project, Modern Application Development course)</sub>
+  #### YP Car Detection — UX/UI
+  Interface design for a license-plate recognition system. <sub>(YP Enterprise)</sub>
 
-#### Cat Vacuum — UX/UI  
-Designed and developed a browser-based game in React; awarded 2nd place at Mycos Technologies “Build & Play React.js” workshop.  
-<sub>(Team project)</sub>
+  #### Cat Vacuum — UX/UI & Frontend
+  Browser-based game in React. **2nd place** at Mycos Technologies "Build & Play React.js" workshop. <sub>(Team project)</sub>
 
-#### Red Wine Quality Analysis — Data Cleaning & Preparation  
-Cleaned and prepared Kaggle dataset in Python (Pandas); managed missing data and outliers prior to modeling.  
-<sub>(Team project, Data Analysis course)</sub>
+  #### [Edudoro](https://github.com/AuttakornC/Edudoro) — Mobile / Full Stack
+  Pomodoro productivity mobile app built with Flutter, backed by a Go server. <sub>(Mobile Application Development Frameworks course)</sub>
 
-#### MixedLove — Java Application  
-Programmed logic for a visual novel game using Java; collaborated in a team of 5 to implement scene transitions and interactivity.  
-<sub>(Intro to OOP course)</sub>
+  #### Medicine Journey — Full Stack
+  Medicine-tracking website in a mobile-first UI, covering the patient's medication journey. Built both frontend and backend. <sub>(Research in Computer Science course)</sub>
 
-#### YP Car Detection — UX/UI  
-Designed interface for a license plate recognition system.
+  #### Weather Forecast — Backend
+  Web app that displays current weather. Built the backend. <sub>(Web Application Architecture course)</sub>
 
-#### [YP Enterprise Solution](https://www.ypenterprisesolution.com/) — UX/UI  
-Delivered responsive UI design for a CCTV management platform, collaborating closely with business users.
+  #### BookITBuddies — Full Stack
+  Event scheduler prototype integrating the Google Calendar API, built with Python and Flask. <sub>(Modern Application Development course)</sub>
 
----
+  #### Red Wine Quality Analysis — Data Preparation
+  Cleaned and prepared a Kaggle dataset in Python (Pandas), handling missing data and outliers prior to modeling. <sub>(Data Analysis course)</sub>
 
-### Achievements
+  #### MixedLove — Java
+  Visual-novel game logic in Java, including scene transitions and interactivity, built with a team of 5. <sub>(Intro to OOP course)</sub>
 
-- **2nd Place**, Build & Play React.js Competition (Mycos Technologies)
-- Delivered production web solutions adopted by over 3,500 users
+  ---
 
----
+  ### Achievements
+  
+  - 🥈 **2nd Place** — Build & Play React.js Competition (Mycos Technologies)
+  - 🚀 Shipped production web platforms adopted by **3,500+ users**
 
-### Contact
+  ---
+  
+  ### Contact
 
-- **Email:** chanakarn.palipol.0808@gmail.com  
-- **[LinkedIn](https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)**
+  - **Email:** chanakarn.palipol.0808@gmail.com
+  - **LinkedIn:** [chanakarn-palipol](https://www.linkedin.com/in/chanakarn-palipol-3627982b1/)
